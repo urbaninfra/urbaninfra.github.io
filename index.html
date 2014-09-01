@@ -4,10 +4,18 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Urban Infrastructure Lab</h1>
+
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque elit lectus, tincidunt non cursus in, venenatis imperdiet ex. Fusce quam erat, eleifend ullamcorper ultricies ut, volutpat id eros. Phasellus a lorem tincidunt, tempor urna vel, aliquet libero. Donec vel egestas lectus, vel placerat neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec nisi tortor, dapibus in est nec, molestie vestibulum massa. Cras ut dolor lectus. Fusce accumsan metus eget lacus imperdiet, at maximus dolor congue. Maecenas mauris eros, feugiat quis massa nec, ornare viverra erat. Pellentesque eu ultricies nunc. Etiam bibendum eros mauris. Fusce magna elit, finibus sed erat id, scelerisque dapibus lectus. Duis sed neque dignissim, condimentum lectus vitae, dapibus nibh. Integer mattis sollicitudin euismod. Fusce lectus mi, elementum eu vestibulum in, aliquam vitae turpis.</p>
+
+  <p>Aenean nec est nec tortor placerat molestie in pharetra nunc. Nullam non sodales ligula, non auctor metus. Sed id ex eget augue rhoncus aliquet sit amet suscipit lorem. Proin commodo iaculis condimentum. Sed nec blandit felis. Aliquam sit amet varius lorem. Sed pellentesque pretium arcu, at sagittis nisi varius laoreet.</p>
+
+  <p>Integer in quam id diam vestibulum ultricies sit amet ac felis. Sed commodo orci quis quam laoreet iaculis. Curabitur id pulvinar libero. Fusce tempus, orci ac porttitor tempus, metus diam faucibus tellus, id scelerisque quam mi eu massa. Duis egestas ultrices ligula rhoncus dignissim. Vestibulum suscipit elit eu enim sollicitudin, ac pharetra felis rutrum. Pellentesque efficitur malesuada leo, ac lacinia lectus laoreet in. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec elementum, turpis nec molestie vestibulum, ipsum nunc porta massa, sit amet ullamcorper neque metus a justo. Sed dictum condimentum mattis. Etiam risus arcu, vestibulum nec scelerisque id, feugiat a ante. Mauris ac lobortis nibh. Vivamus finibus quam eget mi auctor pellentesque. Morbi convallis ex urna.</p>
+  
+  <h1 class="page-heading">Latest News</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:3%}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -18,6 +26,6 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <p class="rss-subscribe"><a href="{{ "/news" | prepend: site.baseurl }}">All News</a> | <a href="{{ "/feed.xml" | prepend: site.baseurl }}">Subscribe via RSS</a></p>
 
 </div>
