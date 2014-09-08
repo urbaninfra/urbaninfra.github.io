@@ -29,4 +29,4 @@ In the meantime, this is what our team has been working on:
 
 Please check back next week for another update, including (hopefully) news about the results of our funding application.
 
-[![Campus Sustainability Fund](/assets/img/csf-logo.png)](https://f2.washington.edu/oess/csf/)
+[![Campus Sustainability Fund](/assets/img/CSF-logo.png)](https://f2.washington.edu/oess/csf/)
