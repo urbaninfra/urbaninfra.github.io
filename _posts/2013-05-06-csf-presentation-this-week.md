@@ -1,13 +1,9 @@
 ---
-author: kgelino
-comments: true
-date: 2013-05-06 01:13:10+00:00
+author: Kristen Gelino
 layout: post
-slug: csf-presentation-this-week
 title: CSF Presentation this Week!
-wordpress_id: 146
 categories:
-- Updates
+- uwsolar
 ---
 
 Well, we certainly have had a week of beautiful weather here in Seattle and we hope all of you locals had a chance to get outside and enjoy the sunshine!

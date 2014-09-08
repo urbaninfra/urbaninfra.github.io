@@ -1,13 +1,9 @@
 ---
-author: kgelino
-comments: true
-date: 2013-04-18 23:30:07+00:00
+author: Kristen Gelino
 layout: post
-slug: come-meet-our-team-at-huskyfest
 title: Come Meet Our Team at Huskyfest!
-wordpress_id: 108
 categories:
-- Updates
+- uwsolar
 ---
 
 The cherry blossoms are in full bloom here at the UW campus and that can only mean one thing... It must be almost time for Earth Day!

@@ -1,16 +1,12 @@
 ---
-author: lyvlifulton
-comments: true
-date: 2014-03-24 19:17:45+00:00
+author: Lydia Fulton
 layout: post
-slug: installation-slated-to-finish-by-the-end-of-the-week
 title: Installation Slated to Finish by the End of the Week
-wordpress_id: 193
 categories:
-- Updates
+- uwsolar
 ---
 
-After a roof tour done by UW Solar this morning, we have learned that the final module has been placed!  That makes a grand total of 128 individual panels on Mercer Court A’s roof.  On Wednesday, a commissioning agent will inspect that the system works properly, getting the system one step closer towards producing electricity.  Hopefully by the end of the week the system will be approved and ready to go.
+After a roof tour done by UW Solar this morning, we have learned that the final module has been placed! That makes a grand total of 128 individual panels on Mercer Court A’s roof. On Wednesday, a commissioning agent will inspect that the system works properly, getting the system one step closer towards producing electricity.  Hopefully by the end of the week the system will be approved and ready to go.
 
 [![DSC_0638](http://uwsolar.files.wordpress.com/2014/03/dsc_0638.jpg?w=470)](http://uwsolar.files.wordpress.com/2014/03/dsc_0638.jpg)
 

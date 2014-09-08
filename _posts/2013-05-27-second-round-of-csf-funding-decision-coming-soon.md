@@ -1,13 +1,9 @@
 ---
-author: michelexhill
-comments: true
-date: 2013-05-27 04:40:50+00:00
+author: Michele Hill
 layout: post
-slug: second-round-of-csf-funding-decision-coming-soon
 title: Second Round of CSF Funding - Decision Coming Soon!
-wordpress_id: 158
 categories:
-- Updates
+- uwsolar
 ---
 
 Happy Memorial Day, followers of UW-Solar!
@@ -33,6 +29,4 @@ In the meantime, this is what our team has been working on:
 
 Please check back next week for another update, including (hopefully) news about the results of our funding application.
 
-![CSF logo](http://uwsolar.files.wordpress.com/2013/05/csf_logo_rgb_horz-1_1.jpg?w=300)
-
-_Image courtesy of UW's [Campus Sustainability Fund](https://f2.washington.edu/oess/csf/)._
+[![Campus Sustainability Fund](/assets/img/csf-logo.png)](https://f2.washington.edu/oess/csf/)

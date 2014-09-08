@@ -1,13 +1,9 @@
 ---
-author: kgelino
-comments: true
-date: 2013-02-18 20:41:08+00:00
+author: Kristen Gelino
 layout: post
-slug: great-news-initial-funding-approved
 title: GREAT NEWS - Initial Funding Approved!
-wordpress_id: 51
 categories:
-- Updates
+- uwsolar
 ---
 
 _**Great News!**_

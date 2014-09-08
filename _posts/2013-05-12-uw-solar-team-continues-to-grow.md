@@ -1,13 +1,9 @@
 ---
-author: michelexhill
-comments: true
-date: 2013-05-12 23:04:01+00:00
+author: Michele Hill
 layout: post
-slug: uw-solar-team-continues-to-grow
-title: UW-Solar team continues to grow
-wordpress_id: 150
+title: UW-Solar Team Continues to Grow
 categories:
-- Updates
+- uwsolar
 ---
 
 _The UW-Solar team is pleased to announce the addition of a new member, Lydia Fulton. Lydia is an undergraduate in UW's Architecture program, and will be assisting both the Siting & Infrastructure and Education & Outreach teams. Her bio will be posted soon. Welcome, Lydia!_
@@ -22,4 +18,4 @@ Meanwhile, the team worked to clarify our mission statement, which now reads:
 
 Check back in the coming weeks for more project updates, including whether we received the next round of CSF funding.
 
-[caption id="attachment_152" align="alignnone" width="300"][![DSC_7474](http://uwsolar.files.wordpress.com/2013/05/dsc_7474.jpg?w=300)](http://uwsolar.files.wordpress.com/2013/05/dsc_7474.jpg) This is the view our solar array will have, at least on sunny days. Image courtesy of Adam Hill.[/caption]
+{% include image.html url="http://uwsolar.files.wordpress.com/2013/05/dsc_7474.jpg" description="This is the view our solar array will have, at least on sunny days. Image courtesy of Adam Hill." %}

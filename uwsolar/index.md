@@ -22,10 +22,11 @@ Stefanie Young
 Co-Manager
 sy10@uw.edu
 
-![CSF](/assets/img/CSF-logo.png)
+[![Campus Sustainability Fund](/assets/img/csf-logo.png)](https://f2.washington.edu/oess/csf/)
 
 UW-Solar is pleased to be a Campus Sustainability Fund (CSF) project! The goal of CSF is to foster positive change by giving the UW community the opportunity to develop, create, and implement their ideas.
 
- 
 
 If you would like to learn more about the Fund and other student led sustainability projects at UW please visit the Campus Sustainability Fund’s website.
+
+

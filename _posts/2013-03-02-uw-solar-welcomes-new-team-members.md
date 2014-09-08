@@ -1,13 +1,9 @@
 ---
-author: kgelino
-comments: true
-date: 2013-03-02 19:08:15+00:00
+author: Kristen Gelino
 layout: post
-slug: uw-solar-welcomes-new-team-members
 title: UW-Solar Welcomes New Team Members!
-wordpress_id: 80
 categories:
-- Updates
+- uwsolar
 ---
 
 _This week UW-Solar has had some exciting additions to our team. We are pleased to announce that **Allsion McGrath, Nicholas Steckler, Kaiwen Sun, and Sunni Wissmer** have joined our team. Allison joins us from the Evans School of Public Administration and the School of Environmental and Forest Resources. Kaiwen and Nick are both undergraduates in UW's Electrical Engineering program. And Sunni joins us from the Department of Urban Design and Planning's undergraduate Community, Environment, and Planning program._

@@ -1,13 +1,9 @@
 ---
-author: kgelino
-comments: true
-date: 2013-03-07 20:18:51+00:00
+author: Kristen Gelino
 layout: post
-slug: next-round-of-funding-letter-of-interest-submitted
 title: Next Round of Funding - Letter of Interest Submitted!
-wordpress_id: 89
 categories:
-- Updates
+- uwsolar
 ---
 
 **We  have submitted the Letter of Interest for the next round of funding for the Campus Sustainability Fund! But first things first, we still have that feasibility study to finish...**
