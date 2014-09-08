@@ -22,7 +22,12 @@ body {
     background-color: $background-color;
 }
 
-
+/**
+ * Fonts for image captions
+ */
+ table.image {
+    font-size: small;
+}
 
 /**
  * Set `margin-bottom` to maintain vertycal rhythm
