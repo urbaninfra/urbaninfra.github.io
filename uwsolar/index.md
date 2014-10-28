@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Solar
+title: UW Solar
 menu: main
 ---
 
