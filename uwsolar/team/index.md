@@ -2,7 +2,7 @@
 layout: default
 title: Solar Team
 ---
-![My helpful screenshot](/assets/img/WinterCampus_1-XL.jpg)
+![Credit: William H. Gates Hall, home of the Law School, glass pyramids let light into the Library atrium. Photo by Katherine B. Turner](/assets/img/WinterCampus_1-XL.jpg)
 Our team was assembled from five Colleges at the University of Washington to create a powerful knowledge base for this interdisciplinary project. Each team member has a distinct and important role in the overall design and implementation of the project.
 
 PROJECT MANAGERS:
